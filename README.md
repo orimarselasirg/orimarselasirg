@@ -39,7 +39,7 @@
 <h2 align = 'left'>📫  How to reach me ...</h2>
 <br/>
 
-<a href = '[www.linkedin.com](https://www.linkedin.com/in/rami-grisales-62a086239/)'>
+<a href = 'https://www.linkedin.com/in/rami-grisales-62a086239/'>
     <img width ='50px' src ='https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png'></img>
 </a>
 <br/>
