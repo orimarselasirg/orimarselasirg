@@ -46,9 +46,15 @@
 <a href = 'https://github.com/orimarselasirg'>
     <img width ='50px' src ='https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png'></img>
 </a>
-<p>email : Ramirogrisales@gmail.com</p>
-
-
+<br/>
+<a href = 'ramirogrisales@gmail.com'>
+    <img width ='50px' src ='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png'/> <span>ramirogrisales@gmail.com</span>
+</a>
+<br/>
+<div>
+<img width ='50px' src ='https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png'/> <span> +57 3046164105</span>
+</div>
+<br/>
 <img  width ='100px' src ='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'></img>
 
 <p align='left'></p>
