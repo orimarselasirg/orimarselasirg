@@ -9,9 +9,9 @@
 <h2 align = 'left'>👀 About Me</h2>
 <br/>
 
-- 👨🏻‍💻  I'm finishing Henry's bootcamps, 8 months of learning and putting into practice the knowledge acquired
+- 👨🏻‍💻  I'm finished Henry's bootcamps, 9 months of learning and putting into practice the knowledge acquired
 
-- 📚  Currently i'm working on my individual project for Henry's Bootcamp
+- 📚  Currently i'm working on a project for a transports company
 
 - 🔎  I'm looking for to collaborate and work on projects that help generate a better world, I am passionate about development and one of my premises is 'If you can imagine it, you can develop it'
 
@@ -46,6 +46,7 @@
 <a href = 'https://github.com/orimarselasirg'>
     <img width ='50px' src ='https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png'></img>
 </a>
+<p>email : Ramirogrisales@gmail.com</p>
 
 
 <img  width ='100px' src ='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'></img>
