@@ -1,42 +1,40 @@
-<h1 align = 'center'>👋 Hi Everyone, I'm Rami Grisales, Welcome to my profile!</h1>
+<h1 align = 'center'>Hi Everyone, I'm Rami Grisales, Welcome to my profile!</h1>
 <p align='left'></p>
 <br/>
 
-<img  src = 'https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'></img>
-
 <p align='left'></p>
 
-<h2 align = 'left'>👀 About Me</h2>
+<h2 align = 'left'>About Me</h2>
 <br/>
 
-- 👨🏻‍💻  I'm finished Henry's bootcamps, 9 months of learning and putting into practice the knowledge acquired
+- 👨🏻‍💻 I love play chess, if you play, please, let's play, about my studies, i have a bachelor degree in business and associate degree in electronics and logistic management, and 'cause i need to update, i decided finish a bootcamp, was a great experience.  Another thing curious about me, i'm passionate help and teaching other about this amazing world, i mean, maybe you try this like a job, but i do this 'cause i love and how i know, well, i decide to make a career change after work 15 year in logistic areas with middle range positions only because i love this
 
-- 📚  Currently i'm working on a project for a transports company
+- 📚  I'm currently working as a frontend developer in a company as employee, and as independant, i work as a fullstack developer, using <strong>React, Angular, React native, Node, NestJS, Postgres</strong>
 
-- 🔎  I'm looking for to collaborate and work on projects that help generate a better world, I am passionate about development and one of my premises is 'If you can imagine it, you can develop it'
+- 🔎  Please if you need help, don't hesitate to write me, let's code togueter, if you're learning, i'd like help you improve your skill and o can learn something new about this world.
 
-- 🦜  Let's talk about Javascript, HTML, CSS, React, Apps, job opportunities or simply share knowledge
+- 🦜  Let's talk about pets, chess, anime, movies all those nerds stuff, but without forget the basis, javascript, typescript, Html, Css
 
 <p align='left'></p>
 <h2 align = 'left'> 🥷🏻 My Skills</h2>
 <br/>
 <br/>
 
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png'></img>
-<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png'></img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png'>React</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png'>HTML</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png'>CSS</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'>Javascript</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png'>Redux</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png'>Sequelize</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png'>Postgres</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png'>Postman</img>
+<img  width ='50px' src ='https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png'>Github</img>
 <br/>
 <br/>
 
 
 <p align='left'></p>
-<h2 align = 'left'>📫  How to reach me ...</h2>
+<h2 align = 'left'>📫  Again, let's talk, don't be shy, contact me</h2>
 <br/>
 
 <a href = 'https://www.linkedin.com/in/rami-grisales-62a086239/'>
