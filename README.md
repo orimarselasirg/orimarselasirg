@@ -11,7 +11,7 @@
 
 - 📚  I'm currently working as a frontend developer in a company as employee, and as independant, i work as a fullstack developer, using <strong>React, Angular, React native, Node, NestJS, Postgres</strong>
 
-- 🔎  Please if you need help, don't hesitate to write me, let's code togueter, if you're learning, i'd like help you improve your skill and o can learn something new about this world.
+- 🔎  Please if you need help, don't hesitate to write me, let's code togueter, if you're learning, i'd like help you improve your skill and i can learn something new about this world.
 
 - 🦜  Let's talk about pets, chess, anime, movies all those nerds stuff, but without forget the basis, javascript, typescript, Html, Css
 
