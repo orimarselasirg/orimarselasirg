@@ -7,7 +7,7 @@
 <h2 align = 'left'>About Me</h2>
 <br/>
 
-- 👨🏻‍💻 I love play chess, if you play, please, let's play, about my studies, i have a bachelor degree in business and associate degree in electronics and logistic management, and 'cause i need to update, i decided finish a bootcamp, was a great experience.  Another thing curious about me, i'm passionate help and teaching other about this amazing world, i mean, maybe you try this like a job, but i do this 'cause i love and how i know, well, i decide to make a career change after work 15 year in logistic areas with middle range positions only because i love this
+- 👨🏻‍💻 I love play chess, if you play, please, let's play, about my studies, i have a bachelor degree in business and associate degree in electronics and logistic management, and 'cause i need to update, i decided finish a bootcamp, was a great experience.  Another thing curious about me, i'm passionate help and teaching other about this amazing world, i mean, maybe you try this like a job, but i do this 'cause i love, and how i know?, well, i decide to make a career change after work 15 year in logistic areas with middle range positions only because i love this
 
 - 📚  I'm currently working as a frontend developer in a company as employee, and as independant, i work as a fullstack developer, using <strong>React, Angular, React native, Node, NestJS, Postgres</strong>
 
